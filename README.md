@@ -2,8 +2,8 @@
 Here's a professional **README** file for your GitHub repository:  
 
 ---
-
-                    ## **Customer Behavior Analysis**  
+### **Problem Statement**
+Understanding customer behavior is essential for optimizing business strategies and improving customer satisfaction. ShopEasy aims to analyze customer interactions, purchase patterns, sentiment trends, and marketing effectiveness to gain actionable insights. The objective is to enhance engagement, optimize marketing spend, and boost conversions by leveraging data-driven decisions.           
 
 ### **Project Overview**  
 This project focuses on analyzing customer behavior, sentiment, and purchase patterns to improve customer experience and retention at ShopEasy. The analysis leverages **SQL and Python** to derive meaningful insights from customer reviews, ratings, and purchase history.  
