@@ -1,5 +1,5 @@
 # Customer_behaviour_analysis
-Here's a professional **README** file for your GitHub repository:  
+Here's a professional **README** file for your GitHub repository 
 
 ---
 ### **Problem Statement**
